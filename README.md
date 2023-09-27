@@ -10,9 +10,6 @@ A web-based loan management system built with Django, Django REST framework, and
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -54,7 +51,7 @@ Before you begin, ensure you have the following requirements installed:
 - Celery
 - Redis (used as a message broker for Celery)
 
-## Installation (How to run?)
+## Installation
 
 1. Clone the repository:
 
