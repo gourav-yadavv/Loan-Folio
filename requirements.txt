@@ -1,0 +1,4 @@
+Django>=3.2,<4.0
+djangorestframework>=3.12,<4.0
+celery>=5.1,<6.0
+redis>=3.5,<4.0
