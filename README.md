@@ -124,9 +124,9 @@ To use Loan-Folio, follow these steps:
      http://localhost:8000/all-loans/
      ```
 **If you have any questions or need further assistance, feel free to contact me:**
-
-- Your Name: Gourav Yadav
 - Email: gyadav88897@gmail.com
+
+## Happy Coding!
 
    
 
